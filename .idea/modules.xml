@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Operators_and_Operands.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Operators_and_Operands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/ADDON/Java_Operators_and_Operands.Basics-ADDON.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/ADDON/Java_Operators_and_Operands.Basics-ADDON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/ADDON/Java_Operators_and_Operands.Basics-ADDON.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/ADDON/Java_Operators_and_Operands.Basics-ADDON.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/ADDON/Java_Operators_and_Operands.Basics-ADDON.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/ADDON/Java_Operators_and_Operands.Basics-ADDON.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.test.iml" />

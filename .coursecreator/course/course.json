@@ -5,6 +5,9 @@
   "programming_language" : "JAVA",
   "language" : "en",
   "course_type" : "Marketplace",
+  "vendor" : {
+    "name" : "Mamie"
+  },
   "items" : [
     {
       "id" : 1412262132,

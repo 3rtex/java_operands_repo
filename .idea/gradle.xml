@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Basics/ADDON" />
             <option value="$PROJECT_DIR$/Basics/Arithmetic" />
             <option value="$PROJECT_DIR$/Basics/Coding exercise" />
             <option value="$PROJECT_DIR$/Basics/Introduction" />
