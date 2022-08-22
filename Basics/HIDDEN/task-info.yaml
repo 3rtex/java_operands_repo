@@ -1,0 +1,6 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: false
+- name: test/Tests.java
+  visible: false
