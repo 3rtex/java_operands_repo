@@ -1,0 +1,174 @@
+{
+  "course_version" : 1,
+  "summary" : "This is an introductory Java course for Java Operators and Operands.\n- The course will be most beneficial for beginner-level Java learners.\n- It is expected that you know the basic of Java (syntax, compilation, runtime)\n- It contains examples of Java code implementation and exercises to practice new skills.\n",
+  "title" : "Java Operators and Operands",
+  "programming_language" : "JAVA",
+  "language" : "en",
+  "course_type" : "Marketplace",
+  "items" : [
+    {
+      "id" : 1412262132,
+      "title" : "Basics",
+      "task_list" : [
+        {
+          "id" : 1381617103,
+          "name" : "Introduction",
+          "files" : {
+            "src/Main.java" : {
+              "name" : "src/Main.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "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"
+            }
+          },
+          "description_text" : "\n# Java Operators and Operands\nWelcome to this introduction to the Java operators and operands.\n\nOperators constitute the basic building block to any programming language.\nThey are classified based on the functionality they provide.\n\nOperand is the object of a mathematical operation,  it is the object or quantity that is **operated** on.\n\nWe will talk about the most used operators below with a summary of what they are.\n\nThe `Main` class contains some example for each operator explained below.\n\n## Arithmetic Operators\n\nUsed to perform simple arithmetic operations on primitive data types.\nThese operators consist of various unary and binary operators that can be applied on a single or two operands.\n\n- `*` : Multiplication\n- `/` : Division\n- `%` : Modulo\n- `+` : Addition\n- `–` : Subtraction\n\n## Unary Operators\n\nAre arithmetic operators that perform an action on a single operand. \nThey are used to increment, decrement or negate a value.\n\n- `–` : Unary minus, negate the values.\n- `+` : Unary plus indicates the positive value (numbers are positive without this, however). \n        It performs an automatic conversion to int when the type of its operand is the byte, char, or short.\n        This is called unary numeric promotion.\n- `++` : Increment operator. There are two varieties of increment operators.\n  - Post-Increment: value is first used for computing the result and then incremented.\n  - Pre-Increment: value is incremented first, and then the result is computed.\n- `--` : Decrement operator. There are two varieties of decrement operators.\n  - Post-decrement: value is first used for computing the result and then decremented.\n  - Pre-Decrement: value is decremented first, and then the result is computed.\n- `!` : Logical not operator, used for inverting a boolean value.\n\n## Assignment Operator\n\n`=` assignment operator is used to assigning a value to any variable. \nIt has a right to left associativity, i.e. value given on the right-hand side of the operator is assigned to the \nvariable on the left, and therefore right-hand side value must be declared before using it or should be a constant.\n\nthe assignment operator can be combined with other operators to build a shorter version of the statement called a \nCompound Statement. For example, instead of `a = a+5`, we can write `a += 5`.\n\n- `+=`, for adding left operand with right operand and then assigning it to the variable on the left.\n- `-=`, for subtracting right operand from left operand and then assigning it to the variable on the left.\n- `*=`, for multiplying left operand with right operand and then assigning it to the variable on the left.\n- `/=`, for dividing left operand by right operand and then assigning it to the variable on the left.\n- `%=`, for assigning modulo of left operand by right operand and then assigning it to the variable on the left.\n\n## Relational Operators\n\nUsed to check for relations like equality, greater than, and less than. They return boolean results.\n\n- `==`, Equal to returns true if the left-hand side is equal to the right-hand side.\n- `!=`, Not Equal to returns true if the left-hand side is not equal to the right-hand side.\n- `<`, less than: returns true if the left-hand side is less than the right-hand side.\n- `<=`, less than or equal to returns true if the left-hand side is less than or equal to the right-hand side.\n- `>`, Greater than: returns true if the left-hand side is greater than the right-hand side.\n- `>=`, Greater than or equal to returns true if the left-hand side is greater than or equal to the right-hand side.\n\n## Logical Operators\n\nUsed to perform “logical AND” and “logical OR” operations, i.e., a function similar to AND gate and OR gate in digital electronics.\nOne thing to keep in mind is the second condition is not evaluated if the first one is enough to evaluate the condition. \n(e.g. the first condition is TRUE in a OR, Java won't check the second part because the first part is enough to satisfy the condition)\n\n- `&&`, Logical AND: returns true when both conditions are true.\n- `||`, Logical OR: returns true if at least one condition is true.\n- `!`, Logical NOT: returns true when a condition is false and vice-versa\n\n## Ternary Operator\n\nShorthand version of the if-else statement. It has three operands and hence the name ternary.\n\n`condition ? if true : if false;`\n\n## Bitwise Operators\n\nUsed to perform the manipulation of individual bits of a number. They can be used with any of the integer types.\n\n- `&`, Bitwise AND operator: returns bit by bit AND of input values.\n- `|`, Bitwise OR operator: returns bit by bit OR of input values.\n- `^`, Bitwise XOR operator: returns bit-by-bit XOR of input values.\n- `~`, Bitwise Complement Operator: This is a unary operator which returns the one’s complement representation of the input value, i.e., with all bits inverted.\n\n## Shift Operators\n\nUsed to shift the bits of a number left or right, thereby multiplying or dividing the number by two, respectively.\n\n`number shift_operator n_to_shift;`\n\n- `<<`, Left shift operator: shifts the bits of the number to the left and fills 0 on voids left as a result. Similar effect as multiplying the number with some power of two.\n- `>>`, Signed Right shift operator: shifts the bits of the number to the right and fills 0 on voids left as a result. The leftmost bit depends on the sign of the initial number. Similar effect as dividing the number with some power of two.\n- `>>>`, Unsigned Right shift operator: shifts the bits of the number to the right and fills 0 on voids left as a result. The leftmost bit is set to 0.\n\n## instanceof operator\n\nUsed to test if an object is an instance of a class, a subclass, or an interface. It is a relational operator.\n\n`object instanceof class/subclass/interface`",
+          "description_format" : "MD",
+          "task_type" : "theory"
+        },
+        {
+          "id" : 1187826333,
+          "name" : "Arithmetic",
+          "files" : {
+            "test/output.txt" : {
+              "name" : "test/output.txt",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "VDZEUhWX76j056Rn1zOVyA=="
+            },
+            "src/Main.java" : {
+              "name" : "src/Main.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw5m5AjXnRedIcjD19LfwQAHp98iAnluCWs0xMlmABN0i3VEG3So29lYYciuAD9xXEPlgfEk7maaaYvWTzRvv5n8Yio5dzH2bVqL0p65h1esN"
+            }
+          },
+          "description_text" : "# Arithmetic operators\n\nSince arithmetic operators are quite easy to understand, here is a small problem to resolve with some of them.\n\nIf you need a refresh you can go read the [introduction](course://Basics/Introduction) containing explanation about the operators.\n\n## Problem \n\nIf we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.\n\nFind the sum of all the multiples of 3 or 5 below 1000.\n\n<div class=\"hint\">\nYou will need the modulo arithmetic operator and a loop.\n</div>",
+          "description_format" : "MD",
+          "task_type" : "output"
+        },
+        {
+          "choiceOptions" : [
+            {
+              "text" : "02112",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "02122314",
+              "status" : "CORRECT"
+            },
+            {
+              "text" : "01221314",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "12223415",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "12213",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "12231415",
+              "status" : "INCORRECT"
+            }
+          ],
+          "isMultipleChoice" : false,
+          "name" : "Unary and Relational",
+          "files" : {
+            "src/Main.java" : {
+              "name" : "src/Main.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Ywz6tJuvKpuu2LvN7eoOcWHnb4t1vVzjlri1uLoh99C0mgIh5sae6t120w2Ae4XKSYB00GPmA9Cy9qobdf4nuerXmclo37EYIoH+SotkkEKLSvtzyDum9rmLpVDLP39vFsaJXdjgoSpiB9HElRONVJfESrBAQoaC8UM3+Kx7EnHeZWc74gD10IVepWlDGmL9NSi01piA6U8RzegztB5Nf89Djhyg7eNH6MX9E3QnLzFAzslPSxGJLJSyDSybbFl0AreT4DhUHGT5PkiHdJyqFAbw=",
+              "is_editable" : false
+            }
+          },
+          "description_text" : "# Unary, relational and logical operators\n\nWhat is the value of `s` at the end of the main ? \nTry the exercise on paper or notepad.\n\nIf you need a refresh you can go read the [introduction](course://Basics/Introduction) containing explanation about the operators.\n\n<div class=\"hint\">\nThere are two varieties of increment/decrement operators.\n</div>\n\n<div class=\"hint\">\nWith logical operators, the second condition is not evaluated if the first one is enough to predict the output.\n</div>",
+          "description_format" : "MD",
+          "task_type" : "choice",
+          "id" : 652080911
+        },
+        {
+          "choiceOptions" : [
+            {
+              "text" : "0",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "1",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "2",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "3",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "4",
+              "status" : "CORRECT"
+            },
+            {
+              "text" : "5",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "6",
+              "status" : "INCORRECT"
+            }
+          ],
+          "isMultipleChoice" : false,
+          "name" : "Precedence and Associativity",
+          "files" : {
+            "src/Main.java" : {
+              "name" : "src/Main.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw126JBXN2vynkyaeFHudg0aitzMA8RWJBzv5I9yOXVHDIPrxC2xVymWAz2UvafnH8LJYJHZG1YNlGmTCuso/J29WajR9qIyMvTrsPA9+y2gVrGM0keuMUQ8CJ6lKDqOOiXZW7vkb62ohKfcXXONy4yU=",
+              "is_editable" : false
+            }
+          },
+          "description_text" : "# Java Operators Precedence\n\nOperator precedence defines the order in which a given mathematical expression is evaluated. \nWhen an expression includes multiple operators then every single part of the given expression is evaluated \nin a certain order following some rules defined as per operator precedence. The higher precedence is evaluated \nfirst and the lowest precedence is evaluated last.\n\n# Java Operator Associativity\nWith the same precedence follow operator associativity defined for their operator group. \nIn Java, operators can either follow left-associative, right-associative, or have no associativity. \nOperators with left-associative are evaluated from the left to right, operators with right-associative \nare evaluated from right to the left, and with no associativity, do not follow any predefined order.\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-0pky\">Precedence</th>\n    <th class=\"tg-0pky\">Operator</th>\n    <th class=\"tg-0pky\">Type</th>\n    <th class=\"tg-0pky\">Associativity</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-0pky\">15</td>\n    <td class=\"tg-0pky\">()<br>[]<br>·</td>\n    <td class=\"tg-0pky\">Parentheses<br>Array subscript<br>Member selection</td>\n    <td class=\"tg-0pky\">Left to Right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">14</td>\n    <td class=\"tg-0pky\">++<br>--</td>\n    <td class=\"tg-0pky\">Unary post-increment<br>Unary post-decrement</td>\n    <td class=\"tg-0pky\">Right to left</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">13</td>\n    <td class=\"tg-0pky\">++<br>--<br>+<br>-<br>!<br>~<br>(type)</td>\n    <td class=\"tg-0pky\">Unary pre-increment<br>Unary pre-decrement<br>Unary plus<br>Unary minus<br>Unary logical negation<br>Unary bitwise complement<br>Unary type cast</td>\n    <td class=\"tg-0pky\">Right to left</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">12</td>\n    <td class=\"tg-0pky\">*<br>/<br>%</td>\n    <td class=\"tg-0pky\">Multiplication<br>Division<br>Modulus</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">11</td>\n    <td class=\"tg-0pky\">+<br>-</td>\n    <td class=\"tg-0pky\">Addition<br>Subtraction</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">10</td>\n    <td class=\"tg-0pky\">&lt;&lt;<br>&gt;&gt;<br>&gt;&gt;&gt;</td>\n    <td class=\"tg-0pky\">Bitwise left shift<br>Bitwise right shift with sign extension<br>Bitwise right shift with zero extension</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">9</td>\n    <td class=\"tg-0pky\">&lt;<br>&lt;=<br>&gt;<br>&gt;=<br>instanceof</td>\n    <td class=\"tg-0pky\">Relational less than<br>Relational less than or equal<br>Relational greater than<br>Relational greater than or equal<br>Type comparison (objects only)</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">8</td>\n    <td class=\"tg-0pky\">==<br>!=</td>\n    <td class=\"tg-0pky\">Relational is equal to<br>Relational is not equal to</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">7</td>\n    <td class=\"tg-0pky\">&amp;</td>\n    <td class=\"tg-0pky\">Bitwise AND</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">6</td>\n    <td class=\"tg-0pky\">^</td>\n    <td class=\"tg-0pky\">Bitwise exclusive OR</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">5</td>\n    <td class=\"tg-0pky\">|</td>\n    <td class=\"tg-0pky\">Bitwise inclusive OR</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">4</td>\n    <td class=\"tg-0pky\">&amp;&amp;</td>\n    <td class=\"tg-0pky\">Logical AND</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">3</td>\n    <td class=\"tg-0pky\">||</td>\n    <td class=\"tg-0pky\">Logical OR</td>\n    <td class=\"tg-0pky\">Left to right</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">2</td>\n    <td class=\"tg-0pky\">? :</td>\n    <td class=\"tg-0pky\">Ternary conditional</td>\n    <td class=\"tg-0pky\">Right to left</td>\n  </tr>\n  <tr>\n    <td class=\"tg-0pky\">1</td>\n    <td class=\"tg-0pky\">=<br>+=<br>-=<br>*=<br>/=<br>%=</td>\n    <td class=\"tg-0pky\">Assignment<br>Addition assignment<br>Subtraction assignment<br>Multiplication assignment<br>Division assignment<br>Modulus assignment</td>\n    <td class=\"tg-0pky\">Right to left</td>\n  </tr>\n</tbody>\n</table>\n\n### Note: Larger the number higher the precedence\n\n# Exercise\n\nUnderstand the line and find the value of the `e` variable.\nTry the exercise on paper or notepad.",
+          "description_format" : "MD",
+          "task_type" : "choice",
+          "id" : 1748915124
+        },
+        {
+          "id" : 1947589833,
+          "name" : "Coding exercise",
+          "files" : {
+            "src/Task.java" : {
+              "name" : "src/Task.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "WEJEkhpCAL5HUFSlR3wpP55BUZ+Ql5YPW71WJ76v1RSWCyt8rxCST/g/GUjqQA5wV1PMonDJbIp+QIiADRy8SbzyNT1TlENvuDbyEedrGK+zKAZI4BxsaftOGGciSqF2n32UmfSbYKM+D7xG0t9QYarAvPdLsSS6osXnNiy8Fqo="
+            },
+            "test/Tests.java" : {
+              "name" : "test/Tests.java",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "X4nYRKdwdNm5nCFhS9tNwl3jhGDpkJagVxKiInHjW40IdULjBTX1sudut9eS/fbpkSFbJBWp/qE9ur6wKVfE6H309YQbYfsUt2ByP3b//fEYyhdV8tisjL7gWYYrFgrBj4gkKvTUFwBEUNWZb9zafwe4da4Ypd4puZToAH9jVLWLzhd0jATQfahhiBiA0D/mYBfcRplfmDH0PtFocwTba/irpq5U1u2/uHrp/IOVHfe3XgAJYxCrPtTdrfLX0v1qKQE3IDqHZjz6RRcDOenIZHAs9jH/6HwdvxrZ0Fjx7iAeZdbWU97vgfjBPxzjWeYvSx1FiAapCc0Tyg1K23T3CldivM+iAlTi5yu2BEA/e15j+1sionf/aXhIxn5VXRXlymhINcHEtKFtMeM/LNqLq0R0kYfQCx9LmSUslkXQ98ekK33L472O88Kz9MFMmTzzyIiPbkTCTI1C2ime+B9SfJbABh6F5vR6uyr72utKtVQqmOb20+4ZyrtLWJSXLSi2Uy0vOXwUTam9PkD1PYWgsWYRwwWUZIUfSk4y/ODwRmQ/EiikD7FzCE12GE9CsKyCHvSOzy8QvMpwGCwg4CSQCSykd0h5KETVFN+4ubcQF5byrkLxeMg2jqMoG3ccYXOHRfj8xs1R0OultgbSvOZ+Skd5c6AKn0kEpaPO3VNv0gATSTiyMzyB08uqx85MucfdM0VdJpsI6t3IumvBM+VnoI56p6W4Z96UOjalDxP7hCI="
+            }
+          },
+          "description_text" : "# Coding exercise\n\nWrite a program to calculate the sum of the digits of **any int number**.\n\nNumber : 132        Output : 6\n\nNumber : 786        Output : 21",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    }
+  ],
+  "additional_files" : [
+    {
+      "name" : "build.gradle",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "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"
+    }
+  ],
+  "version" : 13,
+  "edu_plugin_version" : "2022.7-2022.1-585"
+}

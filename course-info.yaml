@@ -1,0 +1,11 @@
+type: marketplace
+title: Java Operators and Operands
+language: English
+summary: |
+  This is an introductory Java course for Java Operators and Operands.
+  - The course will be most beneficial for beginner-level Java learners.
+  - It is expected that you know the basic of Java (syntax, compilation, runtime)
+  - It contains examples of Java code implementation and exercises to practice new skills.
+programming_language: Java
+content:
+- Basics

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Operators_and_Operands.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Operators_and_Operands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Arithmetic/Java_Operators_and_Operands.Basics-Arithmetic.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Coding exercise/Java_Operators_and_Operands.Basics-Coding_exercise.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Coding exercise/Java_Operators_and_Operands.Basics-Coding_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Coding exercise/Java_Operators_and_Operands.Basics-Coding_exercise.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Coding exercise/Java_Operators_and_Operands.Basics-Coding_exercise.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Coding exercise/Java_Operators_and_Operands.Basics-Coding_exercise.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Coding exercise/Java_Operators_and_Operands.Basics-Coding_exercise.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Introduction/Java_Operators_and_Operands.Basics-Introduction.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Introduction/Java_Operators_and_Operands.Basics-Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Introduction/Java_Operators_and_Operands.Basics-Introduction.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Introduction/Java_Operators_and_Operands.Basics-Introduction.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Introduction/Java_Operators_and_Operands.Basics-Introduction.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Introduction/Java_Operators_and_Operands.Basics-Introduction.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Precedence and Associativity/Java_Operators_and_Operands.Basics-Precedence_and_Associativity.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Precedence and Associativity/Java_Operators_and_Operands.Basics-Precedence_and_Associativity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Precedence and Associativity/Java_Operators_and_Operands.Basics-Precedence_and_Associativity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Precedence and Associativity/Java_Operators_and_Operands.Basics-Precedence_and_Associativity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Precedence and Associativity/Java_Operators_and_Operands.Basics-Precedence_and_Associativity.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Precedence and Associativity/Java_Operators_and_Operands.Basics-Precedence_and_Associativity.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Unary and Relational/Java_Operators_and_Operands.Basics-Unary_and_Relational.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Unary and Relational/Java_Operators_and_Operands.Basics-Unary_and_Relational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Unary and Relational/Java_Operators_and_Operands.Basics-Unary_and_Relational.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Unary and Relational/Java_Operators_and_Operands.Basics-Unary_and_Relational.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basics/Unary and Relational/Java_Operators_and_Operands.Basics-Unary_and_Relational.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basics/Unary and Relational/Java_Operators_and_Operands.Basics-Unary_and_Relational.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Operators_and_Operands.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Operators_and_Operands.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Operators_and_Operands.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Operators_and_Operands.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Operators_and_Operands.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Operators_and_Operands.util.test.iml" />
+    </modules>
+  </component>
+</project>
