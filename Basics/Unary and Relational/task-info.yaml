@@ -1,17 +1,17 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: "02112"
+  - text: "s = '02112'"
     is_correct: false
-  - text: "02122314"
+  - text: "s = '02122314'"
     is_correct: true
-  - text: "01221314"
+  - text: "s = '01221314'"
     is_correct: false
-  - text: "12223415"
+  - text: "s = '12223415'"
     is_correct: false
-  - text: "12213"
+  - text: "s = '12213'"
     is_correct: false
-  - text: "12231415"
+  - text: "s = '12231415'"
     is_correct: false
 files:
   - name: src/Main.java

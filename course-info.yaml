@@ -6,6 +6,9 @@ summary: |
   - The course will be most beneficial for beginner-level Java learners.
   - It is expected that you know the basic of Java (syntax, compilation, runtime)
   - It contains examples of Java code implementation and exercises to practice new skills.
+vendor:
+  name: Dylan
 programming_language: Java
 content:
 - Basics
+- ADDED LESSON

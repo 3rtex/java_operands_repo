@@ -6,7 +6,7 @@
   "language" : "en",
   "course_type" : "Marketplace",
   "vendor" : {
-    "name" : "Mamie"
+    "name" : "Dylan"
   },
   "items" : [
     {
@@ -52,27 +52,27 @@
         {
           "choiceOptions" : [
             {
-              "text" : "02112",
+              "text" : "s = '02112'",
               "status" : "INCORRECT"
             },
             {
-              "text" : "02122314",
+              "text" : "s = '02122314'",
               "status" : "CORRECT"
             },
             {
-              "text" : "01221314",
+              "text" : "s = '01221314'",
               "status" : "INCORRECT"
             },
             {
-              "text" : "12223415",
+              "text" : "s = '12223415'",
               "status" : "INCORRECT"
             },
             {
-              "text" : "12213",
+              "text" : "s = '12213'",
               "status" : "INCORRECT"
             },
             {
-              "text" : "12231415",
+              "text" : "s = '12231415'",
               "status" : "INCORRECT"
             }
           ],
@@ -161,14 +161,14 @@
           "task_type" : "edu"
         },
         {
-          "id" : 797450258,
-          "name" : "ADDON",
+          "id" : 1099886291,
+          "name" : "ADDED TASK",
           "files" : {
             "src/Task.java" : {
               "name" : "src/Task.java",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "WEJEkhpCAL5HUFSlR3wpP7l1BTvXSKAWlDmCB0A/tpza6UuxdMZprbzaDXnd6YK/arBV9aYWihD+e/BgGR8Zxzh3/F5M47Il/OUIGfGw3PiE0CqJlPhDM5bRot0Ea3SbxzTn0OseqfnS7b6avx0TvA=="
+              "text" : "WEJEkhpCAL5HUFSlR3wpP2CaOB7TIMB42A3rM9YWqpddxZJc8v3L9oQSwn7ScXDA"
             },
             "test/Tests.java" : {
               "name" : "test/Tests.java",
@@ -182,8 +182,8 @@
           "task_type" : "edu"
         },
         {
-          "id" : 399913762,
-          "name" : "HIDDEN",
+          "id" : 1286899483,
+          "name" : "HIDDEN TASK",
           "files" : {
             "src/Task.java" : {
               "name" : "src/Task.java",
@@ -203,8 +203,36 @@
           "task_type" : "edu"
         },
         {
-          "id" : 1301161928,
-          "name" : "ADDON 2",
+          "id" : 369711892,
+          "name" : "ADDED TASK 2",
+          "files" : {
+            "src/Task.java" : {
+              "name" : "src/Task.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "WEJEkhpCAL5HUFSlR3wpP2CaOB7TIMB42A3rM9YWqpddxZJc8v3L9oQSwn7ScXDA"
+            },
+            "test/Tests.java" : {
+              "name" : "test/Tests.java",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOzyNHGqghbkq1kO1chMNERKIVtu6Wa2mQTUeXLeRxui7TjdtuSYfXVcmhig1a0OyQag34ZWvVDShnVaRsY+QfwPtYECaNDhSv96u1oIoBDY8cZ9Q6X3W2IXzPQ9dMjCEl8NHjiG5I5swvblOdA9UL1yVA+1LNgJykaCp+qTrehcvX8+iUgkqc53I+YldQs3p6IDFWvCrBfJ9pTAw78Iaa+Q=="
+            }
+          },
+          "description_text" : "\nThis is a task description file.\nIts content will be displayed to a learner\nin the **Task Description** window.\n\nIt supports both Markdown and HTML.\nTo toggle the format, you can rename **task.md**\nto **task.html**, or vice versa.\nThe default task description format can be changed\nin **Preferences | Tools | Education**,\nbut this will not affect any existing task description files.\n\nThe following features are available in\n**task.md/task.html** which are specific to the EduTools plugin:\n\n- Hints can be added anywhere in the task text.\nType \"hint\" and press Tab.\nHints should be added to an empty line in the task text.\nIn hints you can use both HTML and Markdown.\n<div class=\"hint\">\n\nText of your hint\n\n</div>\n\n- You may need to refer your learners to a particular lesson,\ntask, or file. To achieve this, you can use the in-course links.\nSpecify the path using the `[link_text](course://lesson1/task1/file1)` format.\n\n- You can insert shortcuts in the task description.\nWhile **task.html/task.md** is open, right-click anywhere\non the **Editor** tab and choose the **Insert shortcut** option\nfrom the context menu.\nFor example: &shortcut:FileStructurePopup;.\n\n- Insert the &percnt;`IDE_NAME`&percnt; macro,\nwhich will be replaced by the actual IDE name.\nFor example, **%IDE_NAME%**.\n\n- Insert PSI elements, by using links like\n`[element_description](psi_element://link.to.element)`.\nTo get such a link, right-click the class or method\nand select **Copy Reference**.\nThen press &shortcut:EditorPaste; to insert the link where appropriate.\nFor example, a [link to the \"contains\" method](psi_element://java.lang.String#contains).\n\n- You can add link to file using **full path** like this:\n  `[file_link](file://lesson1/task1/file.txt)`.",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    },
+    {
+      "id" : 1570781226,
+      "title" : "ADDED LESSON",
+      "task_list" : [
+        {
+          "id" : 1266293681,
+          "name" : "ADDED TASK 3",
           "files" : {
             "src/Task.java" : {
               "name" : "src/Task.java",

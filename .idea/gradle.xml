@@ -11,11 +11,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Basics/ADDON" />
-            <option value="$PROJECT_DIR$/Basics/ADDON 2" />
+            <option value="$PROJECT_DIR$/ADDED LESSON/ADDED TASK 3" />
+            <option value="$PROJECT_DIR$/Basics/ADDED TASK" />
+            <option value="$PROJECT_DIR$/Basics/ADDED TASK 2" />
             <option value="$PROJECT_DIR$/Basics/Arithmetic" />
             <option value="$PROJECT_DIR$/Basics/Coding exercise" />
-            <option value="$PROJECT_DIR$/Basics/HIDDEN" />
+            <option value="$PROJECT_DIR$/Basics/HIDDEN TASK" />
             <option value="$PROJECT_DIR$/Basics/Introduction" />
             <option value="$PROJECT_DIR$/Basics/Precedence and Associativity" />
             <option value="$PROJECT_DIR$/Basics/Unary and Relational" />
