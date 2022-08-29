@@ -250,6 +250,42 @@
           "description_text" : "\nThis is a task description file.\nIts content will be displayed to a learner\nin the **Task Description** window.\n\nIt supports both Markdown and HTML.\nTo toggle the format, you can rename **task.md**\nto **task.html**, or vice versa.\nThe default task description format can be changed\nin **Preferences | Tools | Education**,\nbut this will not affect any existing task description files.\n\nThe following features are available in\n**task.md/task.html** which are specific to the EduTools plugin:\n\n- Hints can be added anywhere in the task text.\nType \"hint\" and press Tab.\nHints should be added to an empty line in the task text.\nIn hints you can use both HTML and Markdown.\n<div class=\"hint\">\n\nText of your hint\n\n</div>\n\n- You may need to refer your learners to a particular lesson,\ntask, or file. To achieve this, you can use the in-course links.\nSpecify the path using the `[link_text](course://lesson1/task1/file1)` format.\n\n- You can insert shortcuts in the task description.\nWhile **task.html/task.md** is open, right-click anywhere\non the **Editor** tab and choose the **Insert shortcut** option\nfrom the context menu.\nFor example: &shortcut:FileStructurePopup;.\n\n- Insert the &percnt;`IDE_NAME`&percnt; macro,\nwhich will be replaced by the actual IDE name.\nFor example, **%IDE_NAME%**.\n\n- Insert PSI elements, by using links like\n`[element_description](psi_element://link.to.element)`.\nTo get such a link, right-click the class or method\nand select **Copy Reference**.\nThen press &shortcut:EditorPaste; to insert the link where appropriate.\nFor example, a [link to the \"contains\" method](psi_element://java.lang.String#contains).\n\n- You can add link to file using **full path** like this:\n  `[file_link](file://lesson1/task1/file.txt)`.",
           "description_format" : "MD",
           "task_type" : "edu"
+        },
+        {
+          "id" : 577913449,
+          "name" : "Added task 4",
+          "files" : {
+            "src/Task.java" : {
+              "name" : "src/Task.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "WEJEkhpCAL5HUFSlR3wpP2CaOB7TIMB42A3rM9YWqpddxZJc8v3L9oQSwn7ScXDA"
+            },
+            "test/Tests.java" : {
+              "name" : "test/Tests.java",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOzyNHGqghbkq1kO1chMNERKIVtu6Wa2mQTUeXLeRxui7TjdtuSYfXVcmhig1a0OyQag34ZWvVDShnVaRsY+QfwPtYECaNDhSv96u1oIoBDY8cZ9Q6X3W2IXzPQ9dMjCEl8NHjiG5I5swvblOdA9UL1yVA+1LNgJykaCp+qTrehcvX8+iUgkqc53I+YldQs3p6IDFWvCrBfJ9pTAw78Iaa+Q=="
+            }
+          },
+          "description_text" : "\r\nThis is a task description file.\r\nIts content will be displayed to a learner\r\nin the **Task Description** window.\r\n\r\nIt supports both Markdown and HTML.\r\nTo toggle the format, you can rename **task.md**\r\nto **task.html**, or vice versa.\r\nThe default task description format can be changed\r\nin **Preferences | Tools | Education**,\r\nbut this will not affect any existing task description files.\r\n\r\nThe following features are available in\r\n**task.md/task.html** which are specific to the EduTools plugin:\r\n\r\n- Hints can be added anywhere in the task text.\r\nType \"hint\" and press Tab.\r\nHints should be added to an empty line in the task text.\r\nIn hints you can use both HTML and Markdown.\r\n<div class=\"hint\">\r\n\r\nText of your hint\r\n\r\n</div>\r\n\r\n- You may need to refer your learners to a particular lesson,\r\ntask, or file. To achieve this, you can use the in-course links.\r\nSpecify the path using the `[link_text](course://lesson1/task1/file1)` format.\r\n\r\n- You can insert shortcuts in the task description.\r\nWhile **task.html/task.md** is open, right-click anywhere\r\non the **Editor** tab and choose the **Insert shortcut** option\r\nfrom the context menu.\r\nFor example: &shortcut:FileStructurePopup;.\r\n\r\n- Insert the &percnt;`IDE_NAME`&percnt; macro,\r\nwhich will be replaced by the actual IDE name.\r\nFor example, **%IDE_NAME%**.\r\n\r\n- Insert PSI elements, by using links like\r\n`[element_description](psi_element://link.to.element)`.\r\nTo get such a link, right-click the class or method\r\nand select **Copy Reference**.\r\nThen press &shortcut:EditorPaste; to insert the link where appropriate.\r\nFor example, a [link to the \"contains\" method](psi_element://java.lang.String#contains).\r\n\r\n- You can add link to file using **full path** like this:\r\n  `[file_link](file://lesson1/task1/file.txt)`.",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 2090224735,
+          "name" : "Added task 5",
+          "files" : {
+            "src/Main.java" : {
+              "name" : "src/Main.java",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4tKU2eBBAacR/guEJ9XR/DWe7UxqJODhdAO/zUEx00FiLkjnN2tkLxBWwLWug1KXQ=="
+            }
+          },
+          "description_text" : "\nThis is a task description file.\nIts content will be displayed to a learner\nin the **Task Description** window.\n\nIt supports both Markdown and HTML.\nTo toggle the format, you can rename **task.md**\nto **task.html**, or vice versa.\nThe default task description format can be changed\nin **Preferences | Tools | Education**,\nbut this will not affect any existing task description files.\n\nThe following features are available in\n**task.md/task.html** which are specific to the EduTools plugin:\n\n- Hints can be added anywhere in the task text.\nType \"hint\" and press Tab.\nHints should be added to an empty line in the task text.\nIn hints you can use both HTML and Markdown.\n<div class=\"hint\">\n\nText of your hint\n\n</div>\n\n- You may need to refer your learners to a particular lesson,\ntask, or file. To achieve this, you can use the in-course links.\nSpecify the path using the `[link_text](course://lesson1/task1/file1)` format.\n\n- You can insert shortcuts in the task description.\nWhile **task.html/task.md** is open, right-click anywhere\non the **Editor** tab and choose the **Insert shortcut** option\nfrom the context menu.\nFor example: &shortcut:FileStructurePopup;.\n\n- Insert the &percnt;`IDE_NAME`&percnt; macro,\nwhich will be replaced by the actual IDE name.\nFor example, **%IDE_NAME%**.\n\n- Insert PSI elements, by using links like\n`[element_description](psi_element://link.to.element)`.\nTo get such a link, right-click the class or method\nand select **Copy Reference**.\nThen press &shortcut:EditorPaste; to insert the link where appropriate.\nFor example, a [link to the \"contains\" method](psi_element://java.lang.String#contains).\n\n- You can add link to file using **full path** like this:\n  `[file_link](file://lesson1/task1/file.txt)`.",
+          "description_format" : "MD",
+          "task_type" : "theory"
         }
       ],
       "type" : "lesson"
